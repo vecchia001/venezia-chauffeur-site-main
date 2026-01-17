@@ -18,7 +18,7 @@ const translations: Record<Language, Translations> = {
   it: {
     companyName: "Azienda NCC",
     tagline: "Noleggio Con Conducente",
-    description: "Servizio di trasporto privato di lusso con sede a Venezia. Operiamo in Veneto, Trentino e in tutta Italia, con possibilità di spostamenti in Europa.",
+    description: "Servizio di trasporto privato con sede a Venezia.",
     phone: "+39 XXX XXX XXXX",
     email: "info@example.com",
     location: "Venezia, Italia",
@@ -29,7 +29,7 @@ const translations: Record<Language, Translations> = {
   en: {
     companyName: "Azienda NCC",
     tagline: "Private Chauffeur Service",
-    description: "Luxury private transport service based in Venice. We operate in Veneto, Trentino and throughout Italy, with travel options across Europe.",
+    description: "Private transport service based in Venice.",
     phone: "+39 XXX XXX XXXX",
     email: "info@example.com",
     location: "Venice, Italy",
@@ -40,7 +40,7 @@ const translations: Record<Language, Translations> = {
   'en-us': {
     companyName: "Azienda NCC",
     tagline: "Private Chauffeur Service",
-    description: "Luxury private transport service based in Venice. We operate in Veneto, Trentino and throughout Italy, with travel options across Europe.",
+    description: "Private transport service based in Venice.",
     phone: "+39 XXX XXX XXXX",
     email: "info@example.com",
     location: "Venice, Italy",
@@ -51,7 +51,7 @@ const translations: Record<Language, Translations> = {
   de: {
     companyName: "Azienda NCC",
     tagline: "Privater Chauffeurservice",
-    description: "Luxuriöser privater Transportservice mit Sitz in Venedig. Wir sind in Venetien, Trentino und ganz Italien tätig, mit Reisemöglichkeiten in ganz Europa.",
+    description: "Privater Transportservice mit Sitz in Venedig.",
     phone: "+39 XXX XXX XXXX",
     email: "info@example.com",
     location: "Venedig, Italien",
@@ -62,7 +62,7 @@ const translations: Record<Language, Translations> = {
   fr: {
     companyName: "Azienda NCC",
     tagline: "Service de Chauffeur Privé",
-    description: "Service de transport privé de luxe basé à Venise. Nous opérons en Vénétie, Trentin et dans toute l'Italie, avec des possibilités de déplacements en Europe.",
+    description: "Service de transport privé basé à Venise.",
     phone: "+39 XXX XXX XXXX",
     email: "info@example.com",
     location: "Venise, Italie",
@@ -73,7 +73,7 @@ const translations: Record<Language, Translations> = {
   es: {
     companyName: "Azienda NCC",
     tagline: "Servicio de Chófer Privado",
-    description: "Servicio de transporte privado de lujo con sede en Venecia. Operamos en Véneto, Trentino y en toda Italia, con posibilidades de desplazamientos por Europa.",
+    description: "Servicio de transporte privado con sede en Venecia.",
     phone: "+39 XXX XXX XXXX",
     email: "info@example.com",
     location: "Venecia, Italia",
@@ -84,7 +84,7 @@ const translations: Record<Language, Translations> = {
   zh: {
     companyName: "Azienda NCC",
     tagline: "私人司机服务",
-    description: "总部位于威尼斯的豪华私人交通服务。我们在威尼托、特伦蒂诺和意大利全境运营，并可前往欧洲各地。",
+    description: "总部位于威尼斯的私人交通服务。",
     phone: "+39 XXX XXX XXXX",
     email: "info@example.com",
     location: "威尼斯，意大利",
@@ -95,7 +95,7 @@ const translations: Record<Language, Translations> = {
   ar: {
     companyName: "Azienda NCC",
     tagline: "خدمة السائق الخاص",
-    description: "خدمة نقل خاصة فاخرة مقرها البندقية. نعمل في فينيتو وترينتينو وفي جميع أنحاء إيطاليا، مع إمكانية السفر عبر أوروبا.",
+    description: "خدمة نقل خاصة مقرها البندقية.",
     phone: "+39 XXX XXX XXXX",
     email: "info@example.com",
     location: "البندقية، إيطاليا",
