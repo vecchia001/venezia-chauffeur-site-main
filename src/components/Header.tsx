@@ -10,7 +10,7 @@ const Header = () => {
           alt="DMA Executive Logo" 
           className="h-10 w-auto object-contain"
         />
-        <span className="font-heading text-xl sm:text-2xl font-medium tracking-wide text-foreground">
+        <span className="font-heading text-xl sm:text-2xl font-semibold tracking-wide text-foreground">
           Azienda NCC
         </span>
       </div>

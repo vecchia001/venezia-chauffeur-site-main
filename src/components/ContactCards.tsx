@@ -34,10 +34,10 @@ const ContactCards = () => {
               <div className="w-12 h-12 rounded-full bg-primary/5 flex items-center justify-center mb-4">
                 <contact.icon className="w-5 h-5 text-primary" strokeWidth={1.5} />
               </div>
-              <span className="text-xs uppercase tracking-wider text-muted-foreground mb-2">
+              <span className="text-xs uppercase tracking-wider text-foreground/60 mb-2 font-medium">
                 {contact.label}
               </span>
-              <span className="font-body text-sm text-foreground">
+              <span className="font-body text-sm text-foreground font-medium">
                 {contact.value}
               </span>
             </>

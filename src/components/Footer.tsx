@@ -14,7 +14,7 @@ const Footer = () => {
               className="h-full w-full object-contain"
             />
           </div>
-          <span className="font-heading text-lg font-medium tracking-wide">
+          <span className="font-heading text-lg font-semibold tracking-wide">
             Azienda NCC
           </span>
         </div>
