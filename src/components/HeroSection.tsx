@@ -13,17 +13,17 @@ const HeroSection = () => {
           className="h-32 sm:h-44 w-auto mx-auto mb-8 object-contain"
         />
         
-        <h1 className="font-heading text-4xl sm:text-5xl md:text-6xl font-medium tracking-wide text-foreground mb-4">
+        <h1 className="font-heading text-4xl sm:text-5xl md:text-6xl font-semibold tracking-wide text-foreground mb-4">
           Azienda NCC
         </h1>
         
-        <p className="font-heading text-lg sm:text-xl text-muted-foreground tracking-widest uppercase mb-8">
+        <p className="font-heading text-lg sm:text-xl text-foreground/70 tracking-widest uppercase mb-8 font-medium">
           {t.tagline}
         </p>
         
         <div className="w-16 h-px bg-primary/30 mx-auto mb-8" />
         
-        <p className="font-body text-base sm:text-lg text-muted-foreground leading-relaxed max-w-xl mx-auto">
+        <p className="font-body text-base sm:text-lg text-foreground/70 leading-relaxed max-w-xl mx-auto font-medium">
           {t.description}
         </p>
       </div>
